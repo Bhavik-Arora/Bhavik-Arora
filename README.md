@@ -1,7 +1,8 @@
+Hi, I’m Bhavik — a developer who loves creating clean, simple, and clever projects.
 
-Hi, I’m Bhavik — passionate about robotics, VEX programming, AI, and engineering-style builds.
+I enjoy building with automation, robotics, and AI, and I’m always experimenting with new ideas.
 
-I use GitHub to document my bots, sensors, experiments, and code solutions.
+I use GitHub as my space to learn, ship projects, and document my journey as I grow.
 
-If it moves, senses, or reacts… I probably tried programming it.
 
+Thanks for stopping by — feel free to explore my work! 🚀
