@@ -1,4 +1,4 @@
-<h1>github page</h1>
+<h1>Github Page</h1>
 Hi, I’m Bhavik — a developer who loves creating clean, simple, and clever projects.
 
 I enjoy building with automation, robotics, and AI, and I’m always experimenting with new ideas.
