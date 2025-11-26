@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Bhavik Arora!]
+## Hey 👋, I'm [Bhavik Arora!](https://github.com/Bhavik-Arora)
 
 
 
